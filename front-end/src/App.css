@@ -1,0 +1,14 @@
+.App {
+  display: flex;
+  flex-direction: row;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.CurrentDateTime {
+  flex-basis: 60%;
+
+}
+
+.WeatherForecast {
+  flex-basis: 40%;
+}
